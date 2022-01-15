@@ -2,7 +2,7 @@
  
 Olá, seja bem vindo!
 
-Aqui você irá encontrar 4 projetos que foram desenvolvidos nas aulas do curso Intensivão de Python no canal **Hashtag Programação** 
+Aqui você irá encontrar 4 projetos que foram desenvolvidos nas aulas do evento Intensivão de Python no canal **Hashtag Programação** 
 
 - Aula 1 (Automatização com pyautogui)
 - Aula 2 (Análise de dados)
